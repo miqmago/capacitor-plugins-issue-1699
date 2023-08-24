@@ -1,0 +1,11 @@
+{
+  "appId": "com.capacitor.plugin.issue.1699",
+  "appName": "capacitor-plugin-issue",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
